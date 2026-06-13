@@ -1,4 +1,4 @@
-# Posterium — Профессиональный инструмент для Telegram-каналов
+# Posterium — сервис для отложенного постинга и ведения Telegram-каналов
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Бот-2CA5E0?logo=telegram&logoColor=white)](https://web.telegram.org/#@Posteriumbot)
 [![Mini App](https://img.shields.io/badge/Mini_App-Открыть-FF8C00)](https://t.me/PosteriumBot?startapp)
